@@ -1,0 +1,14 @@
+#home{
+    background-image:url(../image.png);
+    height: 100vh;
+}
+.fixed-top{
+background-color: transparent;
+background-color: rgb(6, 108, 140);
+}
+.container-fluid a{
+    color: antiquewhite;
+}
+.nav-item a{
+    color: aliceblue;
+}
